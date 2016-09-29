@@ -4,3 +4,6 @@ Inverted Pendulum (Self Balancing Robot/Segway)
 - MPU6050
 - L298N Motor Controller
 - Lego NXT Motors
+- LIP0 Battery 
+
+
