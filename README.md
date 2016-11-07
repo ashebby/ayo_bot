@@ -12,6 +12,6 @@ Uitilized the Arduino IDE using C programming Language
 - Lego NXT Motors: As part of the LEGO BRICK Pack
 - LIP0 Battery: Power Source
 
-Thanks to this post I was able to build mine: http://www.instructables.com/id/Chappie-Self-Balancing-Robot/
+
 
 
